@@ -1,3 +1,5 @@
+### Lab for Cognition and Attention in Time and Space Projects
+
 This repository contains the projects I've worked on during my time in the *Lab for Cognition and Attention in Time and Space*. This period lasted from **September 2023 to May 2024**.
 
 **NOTE: These projects were directly downloaded to my own GitHub acccount from a lab mate. The original links are provided here:**
